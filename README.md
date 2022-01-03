@@ -7,5 +7,5 @@ For frees smaller than 4096 bytes, the free call uses the metadata at the beginn
 #### Installation
 1. Clone the repository
 2. Make the makefile
-3. Run opt_malloc for an optimized version of malloc, realloc and free
-4. Run hwx_malloc for a naive implementation of malloc, realloc and free
+3. Run opt_malloc executable for an optimized version of malloc, realloc and free
+4. Run hwx_malloc executable for a naive implementation of malloc, realloc and free
